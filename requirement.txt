@@ -1,5 +1,5 @@
 ctransformers==0.2.5
-pinecone-client
+pinecone-client==2.2.4
 langchain==0.0.225
 flask
 PyPDF2
@@ -8,3 +8,5 @@ pdf2image
 pytesseract
 unstructured-inference
 sentence_transformers
+python-dotenv
+e 

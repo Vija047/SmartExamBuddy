@@ -1,2 +1,13 @@
 
-model/llama-2-7b-chat.ggmlv3.q4_0.bin
+model/*.bin
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
